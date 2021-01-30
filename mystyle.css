@@ -1,0 +1,14 @@
+body
+{       
+        background-color: lightgreen; 
+ 	
+	background-repeat: repeat-x;
+	background-position: right top;
+	background-attachment: fixed;  
+}
+p.w{
+	border-style: dotted;
+	}
+p.ww{
+	border-style: dashed;
+	}
